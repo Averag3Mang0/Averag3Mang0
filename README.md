@@ -7,7 +7,7 @@ Programmer/Game-dev
 I love to learn new things about programming everyday!
 
 * ✉️  You can contact me at [ericcardenas37892@outlook.com](mailto:ericcardenas37892@outlook.com)
-* 🧠  I'm learning Python/Pygame
+* 🧠  I'm learning WebDev
 * 🤝  I'm open to collaborating on Software, Games, Websites
 * ⚡  I'm into anime and papercrafting!
 
